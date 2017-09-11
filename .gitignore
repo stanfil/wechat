@@ -1,0 +1,8 @@
+.idea/
+*.png
+*.pkl
+*.swp
+*.txt
+/__pycache__
+/robot-student-management/node_modules/
+
